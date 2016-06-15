@@ -4,7 +4,7 @@
 
 重构。
 
-## 代码的“坏味道”
+## 1. 代码的“坏味道”
 
 ### Bloaters
 
@@ -47,7 +47,7 @@
 
 - Incomplete Library Class
 
-## 重构技术
+## 3. 重构技术
 
 ### Composing Methods
 
@@ -84,14 +84,14 @@
 - Change Bidirectional Association to Unidirectional
 - Replace Magic Number with Symbolic Constant
 
-## 大规模重构
+## 4. 大规模重构
 
 - Tease Apart Inheritance
 - Convert Procedure Design to Objects
 - Separate Domain from Presentation
 - Extract Hierarchy
 
-## 参考文档
+## 5. 参考文档
 
 - Refactorings http://refactoring.com/catalog/
 - https://sourcemaking.com/refactoring
