@@ -1,6 +1,10 @@
 # Refactoring. 重构。
 
-## Bad Smells in Code
+## 0. 什么是重构？为什么重构？
+
+重构。
+
+## 代码的“坏味道”
 
 ### Bloaters
 
@@ -43,7 +47,7 @@
 
 - Incomplete Library Class
 
-## Refactoring techniques
+## 重构技术
 
 ### Composing Methods
 
@@ -80,7 +84,7 @@
 - Change Bidirectional Association to Unidirectional
 - Replace Magic Number with Symbolic Constant
 
-## Big Refactorings
+## 大规模重构
 
 - Tease Apart Inheritance
 - Convert Procedure Design to Objects
